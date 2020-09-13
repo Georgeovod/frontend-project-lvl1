@@ -1,5 +1,19 @@
+---
+
+plugins:
+
+# https://eslint.org/docs/user-guide/configuring#specifying-environments
 extends:
    - 'airbnb-base'
- env:
-   node: true
-   browser: true
+env:
+  node: true
+  browser: true
+  es2020: true
+  
+parserOptions:
+  ecmaVersion: 11
+  sourceType: module
+
+rules:
+  no-console: 0
+  import/extensions: 0

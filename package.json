@@ -1,6 +1,6 @@
 {
-  "name": "my-games",
-  "version": "1.0.0",
+  "name": "new-games",
+  "version": "1.1.0",
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/Georgeovod/frontend-project-lvl1.git"
   },
-  "author": "",
+  "author": "heorhii",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Georgeovod/frontend-project-lvl1/issues"
@@ -27,5 +27,5 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "![Node CI](https://github.com/Georgeovod/frontend-project-lvl1/workflows/Node%20CI/badge.svg) <a href=\"https://codeclimate.com/github/codeclimate/codeclimate/maintainability\"><img src=\"https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability\" /></a>"
 }

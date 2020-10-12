@@ -29,7 +29,7 @@ const correctAnswer = (a, b, op) => {
   return result;
 };
 const checkAnswer = (a, b, op) => {
-  let answer = correctAnswer(a, b, op);
+  const answer = correctAnswer(a, b, op);
   const wrongAnswer = `"${userAnswer}" is wrong answer ;(. Correct answer was "${answer}".\nLet's try again, ${userName}!`;
   if (Number(userAnswer) === answer) {
     console.log('Correct!');
@@ -52,4 +52,4 @@ while (playOn === true && counter < 3) {
 }
 if (counter === 3) {
   console.log(`Congratulations, ${userName}!`);
-};
+}

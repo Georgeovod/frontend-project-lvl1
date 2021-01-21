@@ -5,3 +5,4 @@
 [![asciicast](https://asciinema.org/a/364826.svg)](https://asciinema.org/a/364826)
 [![asciicast](https://asciinema.org/a/368534.svg)](https://asciinema.org/a/368534)
 [![asciicast](https://asciinema.org/a/385633.svg)](https://asciinema.org/a/385633)
+[![asciicast](https://asciinema.org/a/385905.svg)](https://asciinema.org/a/385905)
